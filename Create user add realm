@@ -1,0 +1,3 @@
+bin/add-user-keycloak.sh -r master -u <username> -p <password>
+UN:octo.io@outlook.com
+PW:Passw0rd
